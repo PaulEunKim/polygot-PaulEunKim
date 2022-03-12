@@ -1,0 +1,11 @@
+name: myApp
+title:
+username:
+account: pauleunkim
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5257820
+bundleId: 5325912
+url: https://pauleunkim.shinyapps.io/myApp/
+when: 1638589811.54184
+lastSyncTime: 1638589811.54184
